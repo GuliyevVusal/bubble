@@ -6,7 +6,7 @@ public class Main {
 //  5-> 4 beli 5 ile 4 yer deyisdirsin en sona en boyuk ededi atir. 1-ci sirada 0-ci elemente en kicik reqem gelir
 //  Elementlerimizi random verdik 10 elementli oldugu ucun random *10 dedik casting etdik int-e
 //  1-ci forda num.length -1 verdik cunki nece defe dovr edecekse onu gosteririk 0-ci elementden basliyir
-//  11-e getsek yeni 9-cu elemente getse ondan sonra element olmadigi ucun Exception atacaq proqramdan cixacaq
+//  10-e getsek yeni 9-cu elemente getse ondan sonra element olmadigi ucun Exception atacaq proqramdan cixacaq
 //  ona gore -1 den baslatdiq
 //  0-1 i yoxluyur en sonda sondan 1 onundekine qeder getsin ona gorede num.length -1 defe dovr edecek
 //  2-cu forumuz J num.length 10 elementlidirse yeni 0-dan 9 qederdirse en son 8 ve 9-cu elemetlerini yoxlayacaq
