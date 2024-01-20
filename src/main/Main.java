@@ -12,10 +12,9 @@ public class Main {
 //  2-cu forumuz J num.length 10 elementlidirse yeni 0-dan 9 qederdirse en son 8 ve 9-cu elemetlerini yoxlayacaq
 //  yeni 8-e qeder gedecek 2-ci turda yeni J-de 1 dene daha eksik getmelidir -1-i deyirik
 //  neye gore -1-i deyirik ? demesekde duz isleyecek yeni J-de -1 desek. Amma her defe gedib neticenide yeni sonuncu elementi 
-//  yoxlayacaq proqram dah cox dovr etmis olacaq.bunun isbati tempden once int count=0; deyib
-//  sonda countu++; edib System.out.printf("%,d",count); deyib yoxlaya bilersiniz ve new int [1000] verek
-//  elemetde nece defe dovr elediyini gore bilersiz. Temp deyiskeni elan etdik
-//  yer deyisdirmek ucun 
+//  yoxlayacaq proqram dah cox dovr etmis olacaq.
+//  Temp deyiskeni elan etdik yer deyisdirmek ucun 
+
 
         int num[] = new int[10];
         for (int i = 0; i < num.length; i++) {
