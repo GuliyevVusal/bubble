@@ -21,7 +21,7 @@ public class Main {
             num[i] = (int) (Math.random() * 10);
         }
         int temp;
-        for (int i = 0; i < num.length; i++) System.out.printf("%3d", num[i]);
+        for (int i = 0; i < num.length; i++) System.out.print(num[i] + " ");
         System.out.println();
         for (int i = 0; i < num.length - 1; i++) {
             for (int j = 0; j < num.length - 1 - i; j++) {
@@ -32,7 +32,7 @@ public class Main {
                 }
             }
         }
-        for (int i = 0; i < num.length; i++) System.out.printf("%3d", num[i]);
+       for (int i = 0; i < num.length; i++) System.out.print(num[i] + " ");
 
 
     }
